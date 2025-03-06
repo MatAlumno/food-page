@@ -1,0 +1,446 @@
+[
+  {
+    "nombre": "Tortita Coquette",
+    "precio": "$2300",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2811%29%20%282%29.gif",
+    "descripcion": "tortita coquette"
+  },
+  {
+    "nombre": "Sándwich de Jamón",
+    "precio": "$3500",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/doctored-up-grocery-store-sub.gif",
+    "descripcion": "fua sanguchito de jamon"
+  },
+  {
+    "nombre": "Sándwich de Atún",
+    "precio": "$4200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/tuna-salad-hoagie.gif",
+    "descripcion": "sanguche de tuna??"
+  },
+  {
+    "nombre": "Papas Fritas",
+    "precio": "$1800",
+    "imagen": "https://media.tenor.com/qYSjiwLs2zgAAAAj/fries-spin.gif",
+    "descripcion": "papasssssssssssss"
+  },
+  {
+    "nombre": "Bondiola con Cebolla",
+    "precio": "$5600",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2024/10/cfa9c-rosemary-braised-beef.gif",
+    "descripcion": "uhhh bondiola y cebollaaa"
+  },
+  {
+    "nombre": "Macaron de Fresa",
+    "precio": "$2800",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/ispahan-macaron.gif",
+    "descripcion": "macarron dulce rosita fresita"
+  },
+  {
+    "nombre": "Galleta de Chocolate",
+    "precio": "$1500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2816%29%20%282%29.gif",
+    "descripcion": "galleta de chocolate"
+  },
+  {
+    "nombre": "Gyro de Cerdo",
+    "precio": "$5200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/pork-gyro.gif",
+    "descripcion": "mira ese burritoooooooo"
+  },
+  {
+    "nombre": "Torta de Minecraft",
+    "precio": "$2000",
+    "imagen": "https://media.tenor.com/UZnYGbNmp-oAAAAi/minecraft-cake.gif",
+    "descripcion": "si"
+  },
+  {
+    "nombre": "Sándwich Clásico",
+    "precio": "$3900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/a-litteri-take-2.gif",
+    "descripcion": "sanguche :D"
+  },
+  {
+    "nombre": "Sándwich de Pollo Frito",
+    "precio": "$4800",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2024/12/fried-fish-sandwich-hanks.gif",
+    "descripcion": "sanguchaaso de posho frito"
+  },
+  {
+    "nombre": "Sándwich de Albóndigas",
+    "precio": "$5300",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/meatball-sub.gif",
+    "descripcion": "el mejor de todooos con quesito salsa y albondiguitas"
+  },
+  {
+    "nombre": "Pescado Chino",
+    "precio": "$4700",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2823%29.gif",
+    "descripcion": "pescadito chino"
+  },
+  {
+    "nombre": "Arepa con Coliflor",
+    "precio": "$3100",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/pabellon-arrepa.gif",
+    "descripcion": "una arepita con coliflorrr papita ufff"
+  },
+  {
+    "nombre": "gato",
+    "precio": "$1500",
+    "imagen": "https://media.tenor.com/sbfBfp3FeY8AAAAi/oia-uia.gif",
+    "descripcion": "u i i a i"
+  },
+  {
+    "nombre": "Tortita de Limón",
+    "precio": "$2600",
+    "imagen": "https://archive.org/download/rotatingfood2/ezgif-4-663fa3f48839.gif",
+    "descripcion": "tortita de limon"
+  },
+  {
+    "nombre": "Factura Dulce",
+    "precio": "$1200",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2822%29%20%282%29.gif",
+    "descripcion": "una facturita"
+  },
+  {
+    "nombre": "Brisket Sandwich",
+    "precio": "$5900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/brisket-sandwich.gif",
+    "descripcion": "nooo mira el hambre q me dioo ese briskettt"
+  },
+  {
+    "nombre": "Sándwich de Pollo con Lechuga",
+    "precio": "$4400",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/jerk-chicken-sandwich.gif",
+    "descripcion": "pollitoo lechuguita y pan, epico"
+  },
+  {
+    "nombre": "",
+    "precio": "$3000",
+    "imagen": "https://media.tenor.com/-mH-VJfFT4oAAAAi/super-mario-mario.gif",
+    "descripcion": "luigi"
+  },
+  {
+    "nombre": "Hamburguesa de Pescado",
+    "precio": "$4500",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/negril-fish-sandwich.gif",
+    "descripcion": "burguir de pescao"
+  },
+  {
+    "nombre": "Palitos de Mozzarella",
+    "precio": "$3200",
+    "imagen": "https://archive.org/download/rotatingfood4/giphy%20-%202020-08-11T154220.479.gif",
+    "descripcion": "palitos de mozarellaaaaa"
+  },
+  {
+    "nombre": "Sándwich de Carne con Gravy",
+    "precio": "$4900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/top-round-and-swiss-with-gravy-v2.gif",
+    "descripcion": "ufff q rico se veeeeeee sanguchito de pata o lo que sea"
+  },
+  {
+    "nombre": "Sándwich de Pollo Frito",
+    "precio": "$5100",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/scrambled-egg-and-fried-chicken-sandwich.gif",
+    "descripcion": "mira ese polloooo"
+  },
+  {
+    "nombre": "Pan Dulce Viejo",
+    "precio": "$1000",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%28100%29.gif",
+    "descripcion": "pan dulce recontra viejo"
+  },
+  {
+    "nombre": "Sándwich Vegano",
+    "precio": "$4300",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/vegan-root-vegetable-hoagie-with-carrot-provolone.gif",
+    "descripcion": "fua una ensalada en sanguche"
+  },
+  {
+    "nombre": "Mortadela, Burrata y Queso",
+    "precio": "$5400",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/mortadella-prosciutto-and-burrata.gif",
+    "descripcion": "mira estoooo, mortadelita burrataa quesitoo"
+  },
+  {
+    "nombre": "",
+    "precio": "$2000",
+    "imagen": "https://media.tenor.com/Q0MQIv8n5acAAAAi/frogspin-frog.gif",
+    "descripcion": "un sapoooo"
+  },
+  {
+    "nombre": "Sándwich Chino",
+    "precio": "$4700",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/bonkers-chinese-burger.gif",
+    "descripcion": "sanguchito chinooo epico"
+  },
+  {
+    "nombre": "",
+    "precio": "$1500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2822%29.gif",
+    "descripcion": "wtf"
+  },
+  {
+    "nombre": "Bánh Mì",
+    "precio": "$4200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/banh-mi-bg-removed.gif",
+    "descripcion": "milanguche de sanguinesaa"
+  },
+  {
+    "nombre": "Galletas con Chocolate",
+    "precio": "$1700",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2815%29%20%282%29.gif",
+    "descripcion": "galletitaaas con chocholate"
+  },
+  {
+    "nombre": "Souvlaki de Cordero",
+    "precio": "$5200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/lamb-souvlaki.gif",
+    "descripcion": "no soy gastronomo no se q coño es esto, pero tiene cordero ufff"
+  },
+  {
+    "nombre": "Pollo Teriyaki",
+    "precio": "$4800",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2833%29.gif",
+    "descripcion": "pollo con teriyaki"
+  },
+  {
+    "nombre": "Choripán con Huevo y Queso",
+    "precio": "$3800",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/half-smoke-egg-and-cheese.gif",
+    "descripcion": "fuaaaa un choripan con dilexia"
+  },
+  {
+    "nombre": "Sándwich de Berenjena a la Parmesana",
+    "precio": "$3900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/eggplant-parm-1.gif",
+    "descripcion": "el verdadero sanguche de milanga"
+  },
+  {
+    "nombre": "Torta de Milanesa",
+    "precio": "$5000",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/torta-milanesa.gif",
+    "descripcion": "tontita de milanesa (me dio hambre)"
+  },
+  {
+    "nombre": "Sándwich de Salame y Verduras",
+    "precio": "$4200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/04/bub-and-pops-italian-hoagie.gif",
+    "descripcion": "un sanguchito de salaaaame y verduritas pa la dieta"
+  },
+  {
+    "nombre": "",
+    "precio": "$2000",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%284%29%20%282%29.gif",
+    "descripcion": "sin comentarios"
+  },
+  {
+    "nombre": "Espárragos",
+    "precio": "$2500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2824%29.gif",
+    "descripcion": "esparagos solos??"
+  },
+  {
+    "nombre": "",
+    "precio": "$1700",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2820%29%20%282%29.gif",
+    "descripcion": "ahhh nico looo"
+  },
+  {
+    "nombre": "Perro Caliente Sueco con Ensalada de Camarones",
+    "precio": "$4700",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/swedish-hot-dog-with-shrimp-salad.gif",
+    "descripcion": "no lo miren se emociono un toque"
+  },
+  {
+    "nombre": "Sándwich Reuben",
+    "precio": "$5200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/reuben.gif",
+    "descripcion": "uhh un sanguchete ruben con panceta y quesoooo"
+  },
+  {
+    "nombre": "Postre con Nueces",
+    "precio": "$2500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2833%29%20%282%29.gif",
+    "descripcion": "postresito con nueces"
+  },
+  {
+    "nombre": "Lemon Pie",
+    "precio": "$2800",
+    "imagen": "https://archive.org/download/rotatingfood2/ezgif-4-09ea2df878e9.gif",
+    "descripcion": "lemon pie"
+  },
+  {
+    "nombre": "Plato Vegano",
+    "precio": "$4500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2828%29.gif",
+    "descripcion": "platito vegano"
+  },
+  {
+    "nombre": "Comida China",
+    "precio": "$4800",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2829%29.gif",
+    "descripcion": "comidita china"
+  },
+  {
+    "nombre": "Hamburguesa de Cordero Picante",
+    "precio": "$5500",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/spicy-cumin-lamb-burger.gif",
+    "descripcion": "burguer de cordero y salsa epico"
+  },
+  {
+    "nombre": "Jambon Beurre",
+    "precio": "$3900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/jambon-buerre.gif",
+    "descripcion": "banda de jamon el peppa lo llaman"
+  },
+  {
+    "nombre": "Subway de Jamón y Queso",
+    "precio": "$4200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/the-dude.gif",
+    "descripcion": "un subway de jamoncetee y queso"
+  },
+  {
+    "nombre": "Hamburguesa Clásica",
+    "precio": "$4700",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2024/10/88898-double-double-animal-style.gif",
+    "descripcion": "burger normalita"
+  },
+  {
+    "nombre": "Sándwich de Jamón Serrano",
+    "precio": "$5100",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/02/the-hebrew-hammer.gif",
+    "descripcion": "miraa ese pansitooo jamon cerrano uff"
+  },
+  {
+    "nombre": "Torta de Chocolate",
+    "precio": "$3000",
+    "imagen": "https://media.tenor.com/kIS7GY56XIMAAAAj/spinning-cake.gif",
+    "descripcion": "torta de cocholate"
+  },
+  {
+    "nombre": "Croissant de Salmón Ahumado",
+    "precio": "$4600",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/08/smoked-salmon-and-cucumber-on-croissant.gif",
+    "descripcion": "croissant :D"
+  },
+  {
+    "nombre": "",
+    "precio": "$1800",
+    "imagen": "https://media1.tenor.com/m/z3xdPeMHpVcAAAAd/spinning-food-spinny-food.gif",
+    "descripcion": "jaja dorito"
+  },
+  {
+    "nombre": "Panqueques",
+    "precio": "$3200",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2832%29%20%282%29.gif",
+    "descripcion": "panqueques riquisimos"
+  },
+  {
+    "nombre": "Hamburguesa de Carne con Queso y Hongos",
+    "precio": "$5300",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/04/beef-bulgogi-torta.gif",
+    "descripcion": "burguit de carne quesito y hongo"
+  },
+  {
+    "nombre": "Crumble Cookie",
+    "precio": "$2200",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2814%29%20%282%29.gif",
+    "descripcion": "crumble cookie o ns"
+  },
+  {
+    "nombre": "Croissant de Pistacho",
+    "precio": "$3500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2813%29.gif",
+    "descripcion": "croissant de pistachooo"
+  },
+  {
+    "nombre": "Pizza de Salame",
+    "precio": "$4800",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%282%29.gif",
+    "descripcion": "pizita de salame como vos"
+  },
+  {
+    "nombre": "Tortita Chiquita",
+    "precio": "$2200",
+    "imagen": "https://dn720005.ca.archive.org/0/items/rotatingfood5/giphy%20%2814%29.gif",
+    "descripcion": "tortica chiquita"
+  },
+  {
+    "nombre": "Sándwich de Bagel con Carne",
+    "precio": "$5200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/04/egg-and-turkey-sausage-on-onion-bagel.gif",
+    "descripcion": "sanguchete de baguel con carne"
+  },
+  {
+    "nombre": "Brócoli y Pollo",
+    "precio": "$4600",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2024/10/02e0e-chicken-cutlet-special.gif",
+    "descripcion": "brocoli y posho"
+  },
+  {
+    "nombre": "Helado de Frambuesa",
+    "precio": "$2500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2815%29.gif",
+    "descripcion": "uhhh helado de frambuesa"
+  },
+  {
+    "nombre": "Juguito",
+    "precio": "$1500",
+    "imagen": "https://media.tenor.com/F80_c4TactYAAAAi/rotating-caprisun-capri-sun.gif",
+    "descripcion": "juguito"
+  },
+  {
+    "nombre": "Postre",
+    "precio": "$2700",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%2821%29%20%282%29.gif",
+    "descripcion": "un postre yo que se"
+  },
+  {
+    "nombre": "Helado",
+    "precio": "$2300",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%281%29.gif",
+    "descripcion": "heladitoo"
+  },
+  {
+    "nombre": "Huevo",
+    "precio": "$1000",
+    "imagen": "https://archive.org/download/rotatingfood/giphy%20%2821%29.gif",
+    "descripcion": "un hueo"
+  },
+  {
+    "nombre": "Hamburguesa",
+    "precio": "$4900",
+    "imagen": "https://archive.org/download/rotatingfood/6lS.gif",
+    "descripcion": "nada, hamburguesa"
+  },
+  {
+    "nombre": "Caja",
+    "precio": "$500",
+    "imagen": "https://archive.org/download/rotatingfood5/giphy%20%283%29.gif",
+    "descripcion": "caja :D"
+  },
+  {
+    "nombre": "Sándwich Helado Napolitano",
+    "precio": "$2800",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/04/neapolitan-ice-cream-sandwich.gif",
+    "descripcion": "eaaa sanguchito helado"
+  },
+  {
+    "nombre": "Completo Chileno con Panceta",
+    "precio": "$3900",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/04/z-burger-bacon-cheese-dog.gif",
+    "descripcion": "un completito bien chileno con pancetaaa"
+  },
+  {
+    "nombre": "Sándwich de Queso a la Parrilla",
+    "precio": "$3400",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2024/10/5fcba-grilled-cheese.gif",
+    "descripcion": "uff sanguche de quesito"
+  },
+  {
+    "nombre": "Chili Dog",
+    "precio": "$4200",
+    "imagen": "https://rotatingsandwiches.com/wp-content/uploads/2023/03/half-smoke.gif",
+    "descripcion": "mira ese chilli dog hermano wtf ta re picante"
+  }
+]

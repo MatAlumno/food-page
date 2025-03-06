@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Comidas Raras</title>
+    <style>
+      @font-face {
+        font-family: "chub";
+        src: url("Early Quake DEMO.otf") format("truetype");
+      }
+
+      body {
+        background-image: url("food.gif");
+        background-attachment: fixed;
+        background-size: 60%;
+        background-position: top;
+        font-family: monospace;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+
+      header {
+        background: #ce001b38;
+        font-size: 2.5rem;
+        margin-left: 16vw;
+        margin-right: 16vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 13vw;
+      }
+
+      header h1 {
+        color: #5e0010;
+        font-family: chub;
+        margin-left: 8vw;
+        margin-right: 8vw;
+      }
+
+      header img {
+        width: 8vw;
+      }
+
+      footer {
+        margin-top: 8vh;
+        background: #000000;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+      }
+      footer img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 13vw;
+      }
+
+      .comidas {
+        margin-left: 18vw;
+        margin-right: 18vw;
+        background: #960014ad;
+        padding-top: 3vh;
+        padding-bottom: 5vh;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        border-radius: 13vw;
+        gap: 2vw;
+        flex: 1;
+        border: 0.5vw solid #16000385;
+      }
+
+      .comida {
+        width: 16vw;
+        max-height: 25vh;
+        transition: transform 0.5s;
+        position: relative;
+      }
+
+      .comida img {
+        width: 100%;
+        object-fit: cover;
+      }
+
+      .comida:hover {
+        transform: scale(1.55);
+      }
+
+      .info {
+        display: none;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.45);
+        color: white;
+        padding: 1.5rem;
+        border-radius: 4vw;
+      }
+
+      .comida:hover .info {
+        display: block;
+      }
+
+      #imagen-secreta {
+        display: none;
+        margin-top: 10px;
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img
+        src="https://revistaenraizada.com/wp-content/uploads/2021/08/Tamaulipas.jpg"
+        alt="logo"
+      />
+      <h1>Tamaulipas Foods</h1>
+      <img
+        src="https://revistaenraizada.com/wp-content/uploads/2021/08/Tamaulipas.jpg"
+        alt="logo"
+      />
+    </header>
+    <div class="comidas" id="comidas"></div>
+    <footer>
+      <button onclick="mostrarImagen()">Creditos</button>
+      <br />
+      <img id="imagen-secreta" src="sho.jpg" alt="Sorpresa" />
+      <p>© 2025 Comidas Extrañas Tamaulipas</p>
+    </footer>
+    <script>
+      fetch("food.json")
+        .then((res) => res.json())
+        .then((foods) => {
+          let comidas = document.getElementById("comidas");
+          comidas.innerHTML = "";
+          foods.forEach((food) => {
+            let div = document.createElement("div");
+            div.className = "comida";
+            div.innerHTML = `<img src='${food.imagen}' alt='${food.nombre}'> 
+                                     <div class='info'>${food.nombre} - ${food.precio}<br>${food.descripcion}</div>`;
+            comidas.appendChild(div);
+          });
+        })
+        .catch((error) => console.error("Error cargando los datos: ", error));
+
+      function mostrarImagen() {
+        document.getElementById("imagen-secreta").style.display = "block";
+      }
+    </script>
+  </body>
+</html>
