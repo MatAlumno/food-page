@@ -54,6 +54,7 @@
         padding: 10px;
         width: 100%;
       }
+
       footer img {
         display: block;
         margin-left: auto;
@@ -98,7 +99,7 @@
         left: 0;
         right: 0;
         bottom: 0;
-        background: rgba(0, 0, 0, 0.45);
+        background: rgba(48, 0, 0, 0.788);
         color: white;
         padding: 1.5rem;
         border-radius: 4vw;
@@ -112,6 +113,19 @@
         display: none;
         margin-top: 10px;
         max-width: 100%;
+      }
+
+      .musica {
+        position: fixed;
+        top: 4vh;
+        right: 2vw;
+        background-color: #ff1547;
+        color: white;
+        border: none;
+        padding: 3vh 2vw;
+        font-size: 1.2rem;
+        cursor: pointer;
+        border-radius: 2vw;
       }
     </style>
   </head>
@@ -133,7 +147,17 @@
       <br />
       <img id="imagen-secreta" src="sho.jpg" alt="Sorpresa" />
       <p>© 2025 Comidas Extrañas Tamaulipas</p>
+      <a href="https://rotatingsandwiches.com/" target="_blank"> Sanguches </a>
+      <a href="https://archive.org/details/rotatingfood5" target="_blank">
+        Comidas giratorias
+      </a>
     </footer>
+
+    <button class="musica" onclick="toggleMusic()" id="musicButton">
+      Reproducir Música Relajante
+    </button>
+    <audio id="audio" src="Torn.mp3" preload="auto"></audio>
+
     <script>
       fetch("food.json")
         .then((res) => res.json())
@@ -152,6 +176,19 @@
 
       function mostrarImagen() {
         document.getElementById("imagen-secreta").style.display = "block";
+      }
+
+      function toggleMusic() {
+        const audio = document.getElementById("audio");
+        const button = document.getElementById("musicButton");
+
+        if (audio.paused) {
+          audio.play();
+          button.textContent = "Pausar Música Relajante";
+        } else {
+          audio.pause();
+          button.textContent = "Reproducir Música Relajante";
+        }
       }
     </script>
   </body>
